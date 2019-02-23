@@ -1,0 +1,29 @@
+scheme: "JummiTerm-Dark"
+author: "James Cherven (https://github.com/jcherven)"
+
+gui00: "#292b2e" # Default bg
+gui01: "#322544" # Cursorline, inactive statusline bg
+gui02: "#404374" # Selection bg
+gui03: "#68727c" # Comments, Invisibles, Line Highlighting
+gui04: "#f7efff" # Dark menu fg
+gui05: "#b2b2b2" # default fg
+gui06: "#ff9bf1" # menu fg for dark bg
+gui07: "#190130" # Tabline bg, Statusline(inactive) bg
+
+gui08: "#2d9574" # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted
+gui09: "#22e2a2" # Integers, Boolean, Constants, XML Attributes, Markup Link Url
+gui0A: "#21bbc7" # Classes, Markup Bold, Search Text Background
+gui0B: "#098f99" # Strings, Inherited Class, Markup Code, Diff Inserted<Paste>
+gui0C: "#806aa8" # Support, Regular Expressions, Escape Characters, Markup Quotes
+gui0D: "#bc6ec5" # Functions, Methods, Attribute IDs, Headings
+gui0E: "#e7b4ed" # Keywords, Storage, Selector, Markup Italic, Diff Changed
+gui0F: "#ce537a" # Deprecated, Opening/Closing Embedded Language Tags, e.g. <?php ?>
+
+#"#b2b2b2""#404374"
+#"#ce537a""#5d4d7a"
+#"#2d9574""#a45bad"
+#"#373040""#3e4c74"
+#"#""#"
+#"#""#"
+#"#806aa8""#"
+#"#68727c""#"
