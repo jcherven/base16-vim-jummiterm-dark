@@ -8,7 +8,7 @@ gui03: "#68727c" # Comments, Invisibles, Line Highlighting
 gui04: "#f7efff" # Dark menu fg
 gui05: "#b2b2b2" # default fg
 gui06: "#ff9bf1" # menu fg for dark bg
-gui07: "#190130" # Tabline bg, Statusline(inactive) bg
+gui07: "#444444" # Tabline bg, Statusline(inactive) bg
 
 gui08: "#2d9574" # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted
 gui09: "#22e2a2" # Integers, Boolean, Constants, XML Attributes, Markup Link Url

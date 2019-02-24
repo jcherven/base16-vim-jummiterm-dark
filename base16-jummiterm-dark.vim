@@ -29,8 +29,8 @@ let s:gui05        = "b2b2b2"
 let g:base16_gui05 = "b2b2b2"
 let s:gui06        = "ff9bf1"
 let g:base16_gui06 = "ff9bf1"
-let s:gui07        = "190330"
-let g:base16_gui07 = "190330"
+let s:gui07        = "444444"
+let g:base16_gui07 = "444444"
 let s:gui08        = "2d9574"
 let g:base16_gui08 = "2d9574"
 let s:gui09        = "22e2a2"
@@ -220,9 +220,9 @@ call <sid>hi("CursorLineNr",  s:gui04, s:gui01, s:cterm04, s:cterm01, "", "")
 call <sid>hi("QuickFixLine",  "", s:gui01, "", s:cterm01, "none", "")
 call <sid>hi("PMenu",         s:gui05, s:gui01, s:cterm05, s:cterm01, "none", "")
 call <sid>hi("PMenuSel",      s:gui01, s:gui05, s:cterm01, s:cterm05, "", "")
-call <sid>hi("TabLine",       s:gui03, s:gui01, s:cterm03, s:cterm01, "none", "")
-call <sid>hi("TabLineFill",   s:gui03, s:gui07, s:cterm03, s:cterm07, "none", "")
-call <sid>hi("TabLineSel",    s:gui07, s:gui09, s:cterm07, s:cterm09, "none", "")
+call <sid>hi("TabLine",       s:gui01, s:gui07, s:cterm01, s:cterm07, "none", "")
+call <sid>hi("TabLineFill",   s:gui01, s:gui07, s:cterm01, s:cterm07, "none", "")
+call <sid>hi("TabLineSel",    s:gui01, s:gui09, s:cterm01, s:cterm09, "none", "")
 
 " Standard syntax highlighting
 call <sid>hi("Boolean",      s:gui09, "", s:cterm09, "", "", "")
